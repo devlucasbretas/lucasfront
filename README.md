@@ -1,5 +1,5 @@
 
-<img align="right" src="https://icons.iconarchive.com/icons/webalys/kameleon.pics/512/Coding-Html-icon.png" width=280>
+<img align="right" src="https://icons.iconarchive.com/icons/webalys/kameleon.pics/512/Coding-Html-icon.png" width=200>
 
 <p align="left"> 
   Olá me chamo Lucas, tenho 24 anos sou Desenvolvedor Front-End e estou em busca de <br>
