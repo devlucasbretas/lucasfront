@@ -1,5 +1,5 @@
 
-<img align="right" src="dev.svg" width=300>
+<img align="right" src="rocket.svg" width=300>
 
 <p align="left"> 
   Olá me chamo Lucas, tenho 24 anos sou Desenvolvedor Front-End e estou em busca de <br>
