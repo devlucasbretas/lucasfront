@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5, CSS3, Javascript e Java.</strong>
+  🦄 Linguagens: <strong>HTML5, CSS3, Javascript, SQL e PHP.</strong>
 </p>
 
 <p align="left">
