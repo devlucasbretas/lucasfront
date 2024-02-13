@@ -2,8 +2,9 @@
 <img align="right" src="rocket.svg" width=250>
 
 <p align="left"> 
-  Olá me chamo Lucas, tenho 24 anos sou Desenvolvedor Front-End e estou em busca de <br>
-  uma oportunidade de emprego na área .
+  Olá me chamo Lucas, tenho 27 anos sou Desenvolvedor FullStack Jr. e estou aprofundando meus <br>
+  conhecimentos na área.<br>
+  Acompanhe meus reposítórios e sinta-se a vontade para compartilhar!
 </p>
 
 <p align="left">
