@@ -2,7 +2,7 @@
 <img align="right" src="rocket.svg" width=250>
 
 <p align="left"> 
-  Olá me chamo Lucas, tenho 27 anos sou Desenvolvedor FullStack Jr. e estou aprofundando meus <br>
+  Olá me chamo Lucas, tenho 27 anos sou Desenvolvedor FullStack Jr<br> e estou aprofundando meus
   conhecimentos na área.<br>
   Acompanhe meus reposítórios e sinta-se a vontade para compartilhar!
 </p>
